@@ -1,15 +1,18 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Akaya+Kanadaka&family=Roboto&display=swap');
 
 body{
-  background-color: #6a994e;
-
-  
+  background-color: #e0a890;
+  border-style: dashed;
+  margin:0;
 }
 
 h1 {
-  font-family: Arial;
-  color:blue;
+  font-family: 'Akaya Kanadaka', cursive;;
+  color:#63372c;
+  font-style: italic;
+  font-size: 45px;
 }
 
 h4 {
@@ -28,6 +31,7 @@ ol {
   font-style: italic;
 }
 #ingredients{
+ 
  
 }
 li{
