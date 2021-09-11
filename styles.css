@@ -3,6 +3,8 @@
 
 body{
   background-color: #6a994e;
+
+  
 }
 
 h1 {
@@ -17,6 +19,7 @@ h4 {
 ul,
 ol {
   margin-top: 0;
+  
 }
 
 .copyright {
@@ -30,5 +33,7 @@ ol {
 li{
   font-family: 'Caveat', cursive;
   font-size: 19px;
+  line-height: 22px;
+  
 }
 
