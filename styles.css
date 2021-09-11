@@ -6,6 +6,7 @@ body{
   background-color: #e0a890;
   border-style: dashed;
   margin:0;
+
 }
 
 h1 {
@@ -30,14 +31,13 @@ ol {
   font-size: 9px;
   font-style: italic;
 }
-#ingredients{
- 
- 
-}
+
 li{
   font-family: 'Caveat', cursive;
   font-size: 19px;
   line-height: 22px;
   
 }
+
+
 
