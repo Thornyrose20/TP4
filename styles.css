@@ -1,6 +1,6 @@
 h1 {
   font-family: Arial;
-  color: red;
+  color:blue;
 }
 
 h4 {
@@ -16,4 +16,7 @@ ol {
   font-family: Arial;
   font-size: 9px;
   font-style: italic;
+}
+.ingredients{
+  font-style:Italic;
 }
