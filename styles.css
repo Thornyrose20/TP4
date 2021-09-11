@@ -1,6 +1,9 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
 
+body{
+  background-color: #6a994e;
+}
 
 h1 {
   font-family: Arial;
@@ -26,6 +29,6 @@ ol {
 }
 li{
   font-family: 'Caveat', cursive;
-  font-size: 10px;
+  font-size: 19px;
 }
 
