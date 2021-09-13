@@ -35,6 +35,7 @@ ol {
   font-style: italic;
 }
 
+/** Don't add px when adjusting line height **/
 li{
   font-family: 'Caveat', cursive;
   font-size: 18px;
@@ -42,7 +43,7 @@ li{
   margin: 0;
   
 }
-
+/****** To make bold element a different color use this code ***/
 b, strong {
    color: red;
    }
