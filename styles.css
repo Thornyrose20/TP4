@@ -10,7 +10,7 @@ body{
 }
 
 h1 {
-  font-family: 'Akaya Kanadaka', cursive;;
+  font-family: 'Akaya Kanadaka', cursive;
   color:#63372c;
   font-style: italic;
   font-size: 45px;
@@ -18,6 +18,8 @@ h1 {
 
 h4 {
   margin-bottom: 0;
+  font-weight:bold;
+  font-family: 'Akaya Kanadaka', cursive;
 }
 
 ul,
@@ -38,6 +40,4 @@ li{
   line-height: 22px;
   
 }
-
-
 
